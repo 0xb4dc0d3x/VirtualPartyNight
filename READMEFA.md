@@ -1,24 +1,32 @@
 # VirtualPartyNight
 
+
+<div dir="rtl">
+
+  
 [فارسی](./READMEFA.md) [English](./README.md)
 
-## wireguard-install
+
+## wireguard
 WireGuard [road warrior](http://en.wikipedia.org/wiki/Road_warrior_%28computing%29) installer
 
-### Installation
-Run the script and follow the assistant:
+### نصب و راه اندازی 
+دانلود کد و اجرای آن:
 
 `wget https://raw.githubusercontent.com/0xb4dc0d3x/VirtualPartyNight/main/wireguard-install.sh -O wireguard-install.sh && bash wireguard-install.sh`
 
-Once it ends, you can run it again to add more users, remove some of them or even completely uninstall WireGuard.
+
+بعد از نصب کامل کافیه که دوباره کد را اجزا کنید تا بتوانید کاربر جدید را جدید اضافه و یا حدف کنید
 
 ---
-## openvpn-install
+
+## Openvpn
 OpenVPN [road warrior](http://en.wikipedia.org/wiki/Road_warrior_%28computing%29) installer
 
-### Installation
-Run the script and follow the assistant:
+### نصب و راه اندازی
+دانلود کد و اجرای آن:
 
 `wget https://raw.githubusercontent.com/0xb4dc0d3x/VirtualPartyNight/main/openvpn-install.sh -O openvpn-install.sh && bash openvpn-install.sh`
 
-Once it ends, you can run it again to add more users, remove some of them or even completely uninstall OpenVPN.
+بعد از نصب کامل کافیه که دوباره کد را اجزا کنید تا بتوانید کاربر جدید را جدید اضافه و یا حدف کنید
+</div>
